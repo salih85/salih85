@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Apps;Payments+%7C+Auth+%7C+Real-Time+Apps" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salih85&label=Profile%20Views&color=0ea5e9&style=flat" />
-  <img src="https://img.shields.io/github/followers/salih85?label=Followers&style=flat&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/salih85?label=Stars&style=flat&color=0ea5e9" />
-</p>
 
 ---
 
