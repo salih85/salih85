@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&text=Mohammed%20Salih&fontAlign=50&fontAlignY=38&fontSize=70&desc=Full%20Stack%20MERN%20Developer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Mohammed%20Salih&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=60&descAlign=50" />
 
 <br>
 
@@ -12,13 +12,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/salih85">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications;Payments+%7C+Auth+%7C+Real-Time+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications;Payments+%7C+Auth+%7C+Real-Time+Systems" />
 
 </div>
 
