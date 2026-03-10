@@ -1,143 +1,157 @@
-<h1 align="center">Hi 👋, I'm Mohammed Salih</h1>
-<h3 align="center">🚀 Full Stack MERN Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:mohammedsalihk8547@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-salih-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&text=Mohammed%20Salih&fontAlign=50&fontAlignY=38&fontSize=70&desc=Full%20Stack%20MERN%20Developer&descAlignY=60&descAlign=50" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Apps;Payments+%7C+Auth+%7C+Real-Time+Apps" />
-</p>
+<br>
+
+<a href="mailto:mohammedsalihk8547@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-salih-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/salih85">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications;Payments+%7C+Auth+%7C+Real-Time+Systems" />
+
+</div>
 
 ---
 
-# 🧑‍💻 Summary
+# 🧑‍💻 About Me
 
-Full-stack developer with experience building secure and scalable web applications using **JavaScript, Node.js, Express, MongoDB, React, and Vue.js**. Skilled in designing RESTful APIs, implementing authentication systems, and integrating payment gateways for real-world applications.  
+Full-stack developer experienced in building secure and scalable web applications using **JavaScript, Node.js, Express, MongoDB, React, and Vue.js**. I focus on designing clean backend architectures, REST APIs, and authentication systems for real-world applications.
 
-Experienced in building **real-time systems using WebSockets and WebRTC**, enabling collaborative platforms and multiplayer applications. Passionate about writing clean, maintainable code and solving complex problems while continuously learning modern technologies.
+I enjoy building **real-time systems using WebSockets and WebRTC**, including collaborative platforms, multiplayer applications, and production-ready full-stack systems. My goal is to create reliable software that solves real problems while maintaining clean and maintainable codebases.
 
 ---
 
-# 🛠️ Technical Skills
+# ⚙️ Tech Stack
 
-### 🚀 Programming
+### Programming
 <p>
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
-
-### ⚡ Real-Time Communication
-WebSockets • Socket.IO • WebRTC
-
-### 🧰 Tools & DevOps
-Git • GitHub • GitHub Actions • Vercel • Render • Postman • VS Code
-
-### 🤝 Soft Skills
-Systems Thinking • Adaptability • Accountability • Continuous Learning
 
 ---
 
 # 🚀 Projects
 
-## 📝 ogDoc – Real-Time Collaborative Document Editor  
-🔗 https://github.com/salih85/ogDoc
+## 📝 ogDoc – Real-Time Collaborative Document Editor
 
-ogDoc is a collaborative document editing platform designed for real-time teamwork and content creation. The application enables multiple users to edit the same document simultaneously using **Yjs CRDT technology and WebSockets**, ensuring conflict-free synchronization even when many users are connected.
+<p>
+<a href="https://github.com/salih85/ogDoc">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
-The platform includes a **grid-based drag-and-drop editor** that allows users to dynamically add text, images, and video blocks to documents. A secure permission system was implemented so document owners can control access and manage participants in real time.
+ogDoc is a collaborative document editing platform designed for real-time teamwork and content creation. The system allows multiple users to edit documents simultaneously using **Yjs CRDT synchronization with WebSockets**, ensuring conflict-free editing even with many connected users.
 
-To enhance collaboration, **WebRTC video calling** was integrated directly inside documents, allowing users to communicate while editing. Secure authentication and OAuth support were enabled using **Google OAuth 2.0**, with HTTPS handled through ngrok during development.
+The platform includes a **grid-based drag-and-drop editor** where users can dynamically add text, images, and video blocks. A secure permission system allows document owners to manage participants and editing rights in real time.
 
-**Tech:** React.js, Node.js, WebSockets, Yjs, WebRTC, Google OAuth
+To enhance collaboration, **WebRTC video calling** was integrated directly inside documents so teams can communicate while editing content.
 
----
-
-## 🚗 SKYLARK – Luxury Vehicle Reservation System  
-🔗 Live: https://skylark-frontend-eqdt.onrender.com/  
-🔗 GitHub: https://github.com/salih85/Skylark
-
-SKYLARK is a full-stack vehicle reservation system that allows customers to browse vehicles, book rentals, and complete payments online. The application includes a responsive interface and real-time booking system that ensures vehicle availability is accurately tracked.
-
-A **secure payment flow using Razorpay** was implemented to process bookings, along with a system to store booking history and manage user authentication. The backend uses structured REST APIs and optimized MongoDB schemas to support scalable data operations.
-
-An **admin dashboard** was developed using Chart.js and MongoDB Aggregations to provide insights into revenue, vehicle usage, and operational statistics. The system also includes inventory tracking and vehicle maintenance monitoring features.
-
-**Tech:** React.js, Node.js, Express.js, MongoDB, Razorpay, Chart.js
+**Tech:** React • Node.js • WebSockets • Yjs • WebRTC • OAuth
 
 ---
 
-## 🔐 Membership Management Platform  
-🔗 https://github.com/salih85/Member-Vault
+## 🚗 Skylark – Vehicle Reservation Platform
 
-This platform was designed as a reusable membership management system suitable for subscription-based businesses. The system manages plans, memberships, payments, and user roles within a centralized platform.
+<p>
+<a href="https://github.com/salih85/Skylark">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
-The application includes **Admin and Member modules with role-based access control**, allowing administrators to create membership plans, assign users, and monitor payment activity. Secure payment integration was implemented using **Razorpay and Cashfree**.
+Skylark is a **premium rent-a-car web platform** that allows customers to browse vehicles, book rentals, and complete online reservations easily. The system was built using **Node.js, Express, MongoDB, Vue.js, and Bootstrap**, focusing on performance and usability.
 
-The system also includes **automated membership expiry and renewal logic**, ensuring smooth subscription management. Email notifications were integrated using Nodemailer to keep users informed about renewals, payments, and membership updates.
+The platform includes a **fully featured admin panel** where administrators can manage vehicles, bookings, and users. Role-based access control ensures secure system management and separation between user and administrative actions.
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Razorpay, Cashfree, Nodemailer
+The system also provides **real-time statistics, vehicle inventory management, issue resolution tools, and maintenance tracking**, helping administrators monitor fleet activity efficiently.
 
----
-
-## 🎓 Tutora – (Client Project) 
-
-Tutora is a client-commissioned educational management system designed to manage the full operational workflow of a tutoring organization. The platform includes modules for **student session scheduling, teacher coordination, salary processing, fee management, and reporting dashboards**.
-
-The project was developed by a team of seven developers in a collaborative production-level environment. Development involved structured task coordination, version control workflows, and maintaining code quality across a shared codebase.
-
-The system also includes a **parent monitoring dashboard** that provides visibility into student progress, attendance, and session performance, helping improve communication between tutors, students, and parents.
+**Tech:** Node.js • Express • MongoDB • Vue • Bootstrap • Razorpay
 
 ---
 
-## 🤖 AI Job Portal & Resume Analyzer  
-🔗 Live: https://job-portal-resume-analyzer.vercel.app/  
-🔗 GitHub: github.com/salih85/job-portal-resume-analyzer.git
+## 🔐 Membership Management Platform
 
-This project is a full-stack recruitment platform designed to simplify hiring workflows using automated resume analysis. Recruiters can post job listings, review applicants, and manage the hiring pipeline through a structured dashboard.
+<p>
+<a href="https://github.com/salih85/Member-Vault">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
-The system includes an **AI-based resume analyzer that detects skills and evaluates candidate profiles**, helping recruiters quickly identify suitable applicants. Job seekers can create profiles, upload resumes, and track their application status.
+This project is a reusable **membership management platform** designed for businesses that manage subscription plans and member access.
 
-An administrator dashboard was implemented to manage platform activity, moderate job postings, and monitor system operations. The platform demonstrates scalable architecture for real-world recruitment systems.
+The system includes **Admin and Member modules with role-based access control**, enabling administrators to create plans, assign members, and monitor subscription activity.
+
+Secure payment processing was implemented using **Razorpay and Cashfree**, along with automated membership expiry logic and renewal handling. Email notifications were integrated using Nodemailer to inform users about important subscription events.
+
+**Tech:** React • Node.js • Express • MongoDB • Razorpay • Cashfree
 
 ---
 
-## ⚽ Duo Pro Football – Real-Time Multiplayer Online Game  
-🔗 Live: https://duoprofootball.onrender.com/  
-🔗 GitHub: https://github.com/salih85/DuoProFootball
+## 🤖 AI Job Portal & Resume Analyzer
 
-Duo Pro Football is a browser-based real-time multiplayer game where two players compete in online matches or play against a computer opponent. The game uses a **server-authoritative architecture** to maintain fair gameplay and synchronized physics.
+<p>
+<a href="https://github.com/salih85/job-portal-resume-analyzer">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
-Real-time communication is powered by **WebSockets**, enabling instant updates for player movement, ball collisions, and scoring events. The server handles physics calculations and validates game actions to ensure consistency between players.
+AI Job Portal & Resume Analyzer is a recruitment platform designed to streamline hiring workflows through automated resume analysis.
 
-The system was designed to support smooth gameplay with low latency while maintaining synchronized game state across connected players, demonstrating real-time networking concepts in web applications.
+Recruiters can post job listings, analyze resumes using **skill detection logic**, and manage applicants through a structured hiring pipeline. Job seekers can create profiles, upload resumes, and track their application progress.
+
+The system also includes an **administrative dashboard** to manage job listings, monitor activity, and maintain platform operations.
+
+---
+
+## ⚽ Duo Pro Football – Real-Time Multiplayer Game
+
+<p>
+<a href="https://github.com/salih85/DuoProFootball">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+Duo Pro Football is a browser-based **real-time multiplayer football game** where players compete online against another player or a computer opponent.
+
+The game uses a **server-authoritative architecture** where the backend controls physics, collision detection, and scoring validation to maintain fair gameplay.
+
+Real-time updates between players are handled using **WebSockets**, ensuring smooth synchronization and low-latency gameplay.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=salih85&show_icons=true&theme=tokyonight" height="170"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salih85&theme=tokyonight" height="170"/>
+
 </p>
 
 <p align="center">
@@ -146,4 +160,8 @@ The system was designed to support smooth gameplay with low latency while mainta
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+<div align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
+</div>
