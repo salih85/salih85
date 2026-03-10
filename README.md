@@ -60,7 +60,7 @@ Systems Thinking • Adaptability • Accountability • Continuous Learning
 # 🚀 Projects
 
 ## 📝 ogDoc – Real-Time Collaborative Document Editor  
-🔗 https://github.com/sinanrahman/ogDoc
+🔗 https://github.com/salih85/ogDoc
 
 ogDoc is a collaborative document editing platform designed for real-time teamwork and content creation. The application enables multiple users to edit the same document simultaneously using **Yjs CRDT technology and WebSockets**, ensuring conflict-free synchronization even when many users are connected.
 
@@ -87,7 +87,7 @@ An **admin dashboard** was developed using Chart.js and MongoDB Aggregations to 
 ---
 
 ## 🔐 Membership Management Platform  
-🔗 https://github.com/nadiya-km/Member-Vault
+🔗 https://github.com/salih85/Member-Vault
 
 This platform was designed as a reusable membership management system suitable for subscription-based businesses. The system manages plans, memberships, payments, and user roles within a centralized platform.
 
@@ -99,7 +99,7 @@ The system also includes **automated membership expiry and renewal logic**, ensu
 
 ---
 
-## 🎓 Tutora – Educational Management Platform
+## 🎓 Tutora – (Client Project) 
 
 Tutora is a client-commissioned educational management system designed to manage the full operational workflow of a tutoring organization. The platform includes modules for **student session scheduling, teacher coordination, salary processing, fee management, and reporting dashboards**.
 
@@ -111,7 +111,7 @@ The system also includes a **parent monitoring dashboard** that provides visibil
 
 ## 🤖 AI Job Portal & Resume Analyzer  
 🔗 Live: https://job-portal-resume-analyzer.vercel.app/  
-🔗 GitHub: https://github.com/salih85/job-portal-resume-analyzer
+🔗 GitHub: github.com/salih85/job-portal-resume-analyzer.git
 
 This project is a full-stack recruitment platform designed to simplify hiring workflows using automated resume analysis. Recruiters can post job listings, review applicants, and manage the hiring pipeline through a structured dashboard.
 
