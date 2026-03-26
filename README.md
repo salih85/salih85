@@ -30,24 +30,39 @@ I enjoy building **real-time systems using WebSockets and WebRTC**, including co
 
 # ⚙️ Tech Stack
 
-### Programming
+### 💻 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,npm,yarn" />
+</p>
+
+### ☁️ Deployment & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+</p>
+
+### 🔐 Authentication & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=jwt" />
 </p>
 
 ---
