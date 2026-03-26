@@ -60,12 +60,6 @@ I enjoy building **real-time systems using WebSockets and WebRTC**, including co
   <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
-### 🔐 Authentication
-<p>
-<p>
-  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
-</p>
-</p>
 ---
 
 # 🚀 Projects
