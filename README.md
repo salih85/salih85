@@ -47,12 +47,12 @@ I enjoy building **real-time systems using WebSockets and WebRTC**, including co
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,npm,yarn" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,yarn" />
 </p>
 
 ### ☁️ Deployment & Hosting
@@ -60,11 +60,10 @@ I enjoy building **real-time systems using WebSockets and WebRTC**, including co
   <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
-### 🔐 Authentication & Others
+### 🔐 Authentication
 <p>
   <img src="https://skillicons.dev/icons?i=jwt" />
 </p>
-
 ---
 
 # 🚀 Projects
