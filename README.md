@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;color=0:0F2027,50:203A43,100:2C5364&amp;text=Mohammed%20Salih&amp;fontColor=ffffff&amp;fontSize=65&amp;fontAlignY=38&amp;desc=Full%20Stack%20MERN%20Developer%20%7C%20Frontend%20%26%20Backend%20Engineer&amp;descSize=20&amp;descAlignY=60&amp;descAlign=50&amp;animation=fadeIn" width="100%" alt="Mohammed Salih"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;section=header&amp;text=Mohammed%20Salih&amp;fontSize=65&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20MERN%20Developer&amp;descSize=20&amp;descAlignY=60&amp;descAlign=50&amp;color=gradient&amp;customColorList=0,1,2" width="100%" alt="Mohammed Salih"/>
+
+</div>
 
 <br>
 
@@ -180,22 +182,6 @@ I work with **JavaScript, React, Node.js, Express, MongoDB, and Vue.js**, buildi
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=salih85&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih85&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=salih85&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -206,15 +192,6 @@ I work with **JavaScript, React, Node.js, Express, MongoDB, and Vue.js**, buildi
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=salih85&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 # 🎯 Current Focus
 
