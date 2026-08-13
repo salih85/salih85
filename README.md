@@ -1,34 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;section=header&amp;text=Mohammed%20Salih&amp;fontSize=65&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20MERN%20Developer&amp;descSize=20&amp;descAlignY=60&amp;descAlign=50&amp;color=gradient&amp;customColorList=0,1,2" width="100%" alt="Mohammed Salih"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;section=header&amp;text=Mohammed%20Salih&amp;fontSize=65&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20MERN%20Developer&amp;descSize=20&amp;descAlignY=60&amp;descAlign=50&amp;animation=fadeIn&amp;color=0:0F2027,50:203A43,100:2C5364"
+    width="100%"
+    alt="Mohammed Salih"
+  />
 
-</div>
+  <br><br>
 
-<br>
+  <!-- SOCIAL LINKS -->
+  <a href="mailto:mohammedsalihk8547@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+      alt="Gmail"
+    />
+  </a>
 
-<a href="mailto:mohammedsalihk8547@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mohammed-salih-k/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/salih85">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-</a>
+  &nbsp;
 
-<br><br>
+  <a href="https://www.linkedin.com/in/mohammed-salih-k/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full+Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;REST+APIs+%7C+Authentication+%7C+Payments;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems" alt="Typing SVG"/>
+  &nbsp;
 
-<br><br>
+  <a href="https://github.com/salih85">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-<img src="https://komarev.com/ghpvc/?username=salih85&amp;label=PROFILE%20VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/salih85?label=FOLLOWERS&amp;style=for-the-badge&amp;color=203A43" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/salih85?label=STARS&amp;style=for-the-badge&amp;color=203A43" alt="Stars"/>
+  <br><br>
+
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full+Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;REST+APIs+%7C+Authentication+%7C+Payments;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems"
+    alt="Typing SVG"
+  />
+
+  <br><br>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=salih85&amp;label=PROFILE%20VIEWS&amp;color=0e75b6&amp;style=for-the-badge"
+    alt="Profile Views"
+  />
+
+  &nbsp;
+
+  <img
+    src="https://img.shields.io/github/followers/salih85?label=FOLLOWERS&amp;style=for-the-badge&amp;color=203A43"
+    alt="Followers"
+  />
+
+  &nbsp;
+
+  <img
+    src="https://img.shields.io/github/stars/salih85?label=STARS&amp;style=for-the-badge&amp;color=203A43"
+    alt="Stars"
+  />
 
 </div>
 
