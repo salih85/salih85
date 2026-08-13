@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/mohammed-salih-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/salih85"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 
-<br><br>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full+Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;REST+APIs+%7C+Authentication+%7C+Payments;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems" alt="Typing SVG"/>
 
