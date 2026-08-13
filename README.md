@@ -12,7 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full+Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;REST+APIs+%7C+Authentication+%7C+Payments;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems" alt="Typing SVG"/>
 
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=salih85&amp;label=PROFILE%20VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/salih85?label=FOLLOWERS&amp;style=for-the-badge&amp;color=203A43" alt="Followers"/>
