@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Mohammed%20Salih&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20Frontend%20%26%20Backend%20Engineer&descSize=2&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Mohammed%20Salih&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Frontend%20%26%20Backend%20Engineer&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn&gradientColor=0F2027,203A43,2C5364" width="100%" alt="Mohammed Salih"/>
 
 <br>
 
@@ -160,13 +159,13 @@ I work with **JavaScript, React, Node.js, Express, MongoDB, and Vue.js**, buildi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salih85&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=salih85&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih85&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih85&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=salih85&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=salih85&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
 
