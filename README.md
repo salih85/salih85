@@ -1,22 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Mohammed%20Salih&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Frontend%20%26%20Backend%20Engineer&descSize=20&descAlignY=60&descAlign=50&animation=fadeIn&gradientColor=0F2027,203A43,2C5364" width="100%" alt="Mohammed Salih"/>
-
-<br>
-
-<a href="mailto:mohammedsalihk8547@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/mohammed-salih-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/salih85"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;section=header&amp;text=Mohammed%20Salih&amp;fontSize=65&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20MERN%20Developer%20%7C%20Frontend%20%26%20Backend%20Engineer&amp;descSize=20&amp;descAlignY=60&amp;descAlign=50&amp;animation=fadeIn&amp;gradientColor=0F2027,203A43,2C5364" width="100%" alt="Mohammed Salih"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;REST+APIs+%7C+Authentication+%7C+Payments;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems" alt="Typing SVG"/>
+<a href="mailto:mohammedsalihk8547@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-salih-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/salih85">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=salih85&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/salih85?label=FOLLOWERS&style=for-the-badge&color=203A43" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/salih85?label=STARS&style=for-the-badge&color=203A43" alt="Stars"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full+Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;REST+APIs+%7C+Authentication+%7C+Payments;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=salih85&amp;label=PROFILE%20VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/salih85?label=FOLLOWERS&amp;style=for-the-badge&amp;color=203A43" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/salih85?label=STARS&amp;style=for-the-badge&amp;color=203A43" alt="Stars"/>
 
 </div>
 
@@ -159,13 +169,13 @@ I work with **JavaScript, React, Node.js, Express, MongoDB, and Vue.js**, buildi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salih85&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=salih85&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih85&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih85&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=salih85&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=salih85&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
 
@@ -185,7 +195,7 @@ I work with **JavaScript, React, Node.js, Express, MongoDB, and Vue.js**, buildi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=salih85&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=salih85&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
