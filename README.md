@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Mohammed%20Salih&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=60&descAlign=50" />
+<!-- ===================== HEADER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Mohammed%20Salih&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Backend%20Focused%20Engineer&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br>
 
 <a href="mailto:mohammedsalihk8547@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-salih-k/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/salih85">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications;Payments+%7C+Auth+%7C+Real-Time+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications;REST+APIs+%7C+Authentication+%7C+Payments;WebSockets+%7C+WebRTC+%7C+Real-Time+Systems" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=salih85&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/salih85?label=FOLLOWERS&style=for-the-badge&color=203A43" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/salih85?label=STARS&style=for-the-badge&color=203A43" alt="Stars"/>
 
 </div>
 
@@ -22,152 +36,449 @@
 
 # 🧑‍💻 About Me
 
-Full-stack developer experienced in building secure and scalable web applications using **JavaScript, Node.js, Express, MongoDB, React, and Vue.js**. I focus on designing clean backend architectures, REST APIs, and authentication systems for real-world applications.
+Hi, I'm **Mohammed Salih**, a **Full Stack MERN Developer** focused on building secure, scalable, and production-ready web applications.
 
-I enjoy building **real-time systems using WebSockets and WebRTC**, including collaborative platforms, multiplayer applications, and production-ready full-stack systems. My goal is to create reliable software that solves real problems while maintaining clean and maintainable codebases.
+I work primarily with **JavaScript, React, Node.js, Express, MongoDB, and Vue.js**, with a strong interest in backend architecture and real-time systems.
+
+I enjoy building applications that include complex functionality such as:
+
+* 🚀 Full-stack web applications
+* ⚙️ Scalable Node.js backends
+* 🔐 Authentication & authorization
+* 👥 Role-based access control
+* 🌐 REST APIs
+* ⚡ WebSockets & real-time communication
+* 🎥 WebRTC video communication
+* 💳 Payment gateway integrations
+* 📊 Admin dashboards
+* 🤖 AI-powered applications
+* 🎮 Real-time multiplayer systems
+* 📦 Database-driven applications
+
+My goal is to build software that is **reliable, maintainable, secure, and useful in real-world environments**.
+
+---
+
+# ⚡ What I Build
+
+<div align="center">
+
+|       🚀 Application       | 🔧 Technologies                     |
+| :------------------------: | :---------------------------------- |
+| 🌐 Full Stack Applications | React • Node.js • Express • MongoDB |
+|  🔐 Authentication Systems | JWT • OAuth • RBAC                  |
+|  ⚡ Real-Time Applications  | WebSockets • Yjs                    |
+|  🎥 Communication Systems  | WebRTC                              |
+|     💳 Payment Systems     | Razorpay • Cashfree                 |
+|     📊 Admin Dashboards    | React • Vue • REST APIs             |
+|     🤖 AI Applications     | Resume Analysis • Skill Detection   |
+|    🎮 Multiplayer Games    | WebSockets • Server Authority       |
+|    🚗 Booking Platforms    | Node.js • MongoDB • Payments        |
+| 📝 Collaboration Platforms | Yjs • WebSockets • WebRTC           |
+
+</div>
 
 ---
 
 # ⚙️ Tech Stack
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
+## 💻 Programming
 
-### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,yarn" />
-</p>
-
-### ☁️ Deployment & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+<img src="https://skillicons.dev/icons?i=js,html,css" alt="Programming"/>
 </p>
 
 ---
 
-# 🚀 Projects
-
-## 📝 ogDoc – Real-Time Collaborative Document Editor
+## 🎨 Frontend
 
 <p>
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" alt="Frontend"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database"/>
+</p>
+
+---
+
+## 🔌 Real-Time Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Yjs-CRDT-203A43?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST-API-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔐 Authentication & Security
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge&logo=oauth&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RBAC-203A43?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💳 Payments
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cashfree-00C853?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,yarn" alt="Tools"/>
+</p>
+
+---
+
+## ☁️ Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render" alt="Deployment"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 📝 ogDoc — Real-Time Collaborative Document Editor
+
+<div align="left">
+
 <a href="https://github.com/salih85/ogDoc">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ogDoc GitHub"/>
 </a>
-</p>
 
-ogDoc is a collaborative document editing platform designed for real-time teamwork and content creation. The system allows multiple users to edit documents simultaneously using **Yjs CRDT synchronization with WebSockets**, ensuring conflict-free editing even with many connected users.
+</div>
 
-The platform includes a **grid-based drag-and-drop editor** where users can dynamically add text, images, and video blocks. A secure permission system allows document owners to manage participants and editing rights in real time.
+<br>
 
-To enhance collaboration, **WebRTC video calling** was integrated directly inside documents so teams can communicate while editing content.
+**ogDoc** is a collaborative document editing platform designed for real-time teamwork and content creation.
 
-**Tech:** React • Node.js • WebSockets • Yjs • WebRTC • OAuth
+The system allows multiple users to edit documents simultaneously using **Yjs CRDT synchronization with WebSockets**, providing conflict-free real-time collaboration.
+
+### ✨ Features
+
+* 👥 Multi-user collaborative editing
+* ⚡ Real-time document synchronization
+* 🔄 Yjs CRDT conflict resolution
+* 🔌 WebSocket communication
+* 🧩 Grid-based drag-and-drop editor
+* 📝 Text blocks
+* 🖼️ Image blocks
+* 🎥 Video blocks
+* 🔐 Document permission management
+* 👑 Owner and participant roles
+* 🎥 WebRTC video calling
+* 🔑 OAuth authentication
+
+**Tech Stack**
+
+`React` `Node.js` `WebSockets` `Yjs` `WebRTC` `OAuth`
 
 ---
 
-## 🚗 Skylark – Vehicle Reservation Platform
+## 🚗 Skylark — Vehicle Reservation Platform
 
-<p>
+<div align="left">
+
 <a href="https://github.com/salih85/Skylark">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Skylark GitHub"/>
 </a>
-</p>
 
-Skylark is a **premium rent-a-car web platform** that allows customers to browse vehicles, book rentals, and complete online reservations easily. The system was built using **Node.js, Express, MongoDB, Vue.js, and Bootstrap**, focusing on performance and usability.
+</div>
 
-The platform includes a **fully featured admin panel** where administrators can manage vehicles, bookings, and users. Role-based access control ensures secure system management and separation between user and administrative actions.
+<br>
 
-The system also provides **real-time statistics, vehicle inventory management, issue resolution tools, and maintenance tracking**, helping administrators monitor fleet activity efficiently.
+**Skylark** is a premium vehicle rental and reservation platform designed for customers and fleet administrators.
 
-**Tech:** Node.js • Express • MongoDB • Vue • Bootstrap • Razorpay
+### ✨ Features
+
+* 🚗 Vehicle browsing
+* 🔎 Vehicle discovery
+* 📅 Vehicle reservations
+* 💳 Online payment processing
+* 👤 Customer management
+* 👑 Admin dashboard
+* 🔐 Role-based access control
+* 📊 Real-time statistics
+* 📦 Vehicle inventory management
+* 🛠️ Maintenance tracking
+* ⚠️ Issue management
+* 📋 Booking management
+
+**Tech Stack**
+
+`Node.js` `Express` `MongoDB` `Vue.js` `Bootstrap` `Razorpay`
 
 ---
 
-## 🔐 Membership Management Platform
+## 🔐 Member Vault — Membership Management Platform
 
-<p>
+<div align="left">
+
 <a href="https://github.com/salih85/Member-Vault">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Member Vault GitHub"/>
 </a>
-</p>
 
-This project is a reusable **membership management platform** designed for businesses that manage subscription plans and member access.
+</div>
 
-The system includes **Admin and Member modules with role-based access control**, enabling administrators to create plans, assign members, and monitor subscription activity.
+<br>
 
-Secure payment processing was implemented using **Razorpay and Cashfree**, along with automated membership expiry logic and renewal handling. Email notifications were integrated using Nodemailer to inform users about important subscription events.
+**Member Vault** is a reusable membership management platform designed for businesses that manage subscription plans and member access.
 
-**Tech:** React • Node.js • Express • MongoDB • Razorpay • Cashfree
+### ✨ Features
+
+* 👑 Admin dashboard
+* 👤 Member dashboard
+* 🔐 Role-based access control
+* 📦 Subscription plans
+* 💳 Razorpay integration
+* 💳 Cashfree integration
+* ⏳ Membership expiry handling
+* 🔄 Membership renewal
+* 📧 Email notifications
+* 📊 Subscription monitoring
+* 🔒 Protected routes
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Razorpay` `Cashfree`
 
 ---
 
 ## 🤖 AI Job Portal & Resume Analyzer
 
-<p>
+<div align="left">
+
 <a href="https://github.com/salih85/job-portal-resume-analyzer">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Job Portal GitHub"/>
 </a>
-</p>
 
-AI Job Portal & Resume Analyzer is a recruitment platform designed to streamline hiring workflows through automated resume analysis.
+</div>
 
-Recruiters can post job listings, analyze resumes using **skill detection logic**, and manage applicants through a structured hiring pipeline. Job seekers can create profiles, upload resumes, and track their application progress.
+<br>
 
-The system also includes an **administrative dashboard** to manage job listings, monitor activity, and maintain platform operations.
+**AI Job Portal & Resume Analyzer** is a recruitment platform designed to simplify job searching and hiring workflows through automated resume analysis.
+
+### ✨ Features
+
+* 💼 Job posting
+* 👨‍💼 Recruiter dashboard
+* 👨‍🎓 Job seeker profiles
+* 📄 Resume upload
+* 🤖 Resume analysis
+* 🧠 Skill detection
+* 📊 Applicant management
+* 📋 Hiring pipeline
+* 📈 Administrative dashboard
+* 🔎 Job discovery
+* 📬 Application tracking
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `AI`
 
 ---
 
-## ⚽ Duo Pro Football – Real-Time Multiplayer Game
+## ⚽ Duo Pro Football — Real-Time Multiplayer Game
 
-<p>
+<div align="left">
+
 <a href="https://github.com/salih85/DuoProFootball">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Duo Pro Football GitHub"/>
 </a>
-</p>
 
-Duo Pro Football is a browser-based **real-time multiplayer football game** where players compete online against another player or a computer opponent.
+</div>
 
-The game uses a **server-authoritative architecture** where the backend controls physics, collision detection, and scoring validation to maintain fair gameplay.
+<br>
 
-Real-time updates between players are handled using **WebSockets**, ensuring smooth synchronization and low-latency gameplay.
+**Duo Pro Football** is a browser-based real-time multiplayer football game.
+
+The application uses a **server-authoritative architecture** where the backend controls game state, physics, collision detection, and score validation.
+
+### ✨ Features
+
+* 🎮 Real-time multiplayer
+* 👥 Player vs Player
+* 🤖 Player vs Computer
+* ⚡ Real-time synchronization
+* 🔌 WebSocket communication
+* 🧠 Server-authoritative architecture
+* ⚽ Physics and collision handling
+* 🏆 Score validation
+* 🌐 Online gameplay
+
+**Tech Stack**
+
+`JavaScript` `Node.js` `WebSockets` `HTML` `CSS`
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salih85&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=salih85&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salih85&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih85&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
 
-</p>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih85&layout=compact&theme=tokyonight"/>
-</p>
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=salih85&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salih85&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salih85&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/salih85/salih85/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+```text
+🚀 Advanced MERN Stack Architecture
+⚙️ Scalable Node.js Backend Systems
+⚡ Real-Time Web Applications
+🔌 WebSockets & WebRTC
+🔐 Authentication & Application Security
+💳 Payment Gateway Integration
+🤖 AI-Powered Applications
+📊 Production-Ready Admin Systems
+🗄️ Database Architecture & Optimization
+☁️ Deployment & Application Performance
+```
+
+</div>
+
+---
+
+# 💡 Engineering Interests
+
+| Area             | Technologies / Focus               |
+| :--------------- | :--------------------------------- |
+| 💻 Frontend      | React • Vue • Tailwind • Bootstrap |
+| ⚙️ Backend       | Node.js • Express • REST APIs      |
+| 🗄️ Database     | MongoDB • Data Modeling            |
+| 🔐 Security      | JWT • OAuth • RBAC                 |
+| ⚡ Real-Time      | WebSockets • Yjs • CRDT            |
+| 🎥 Communication | WebRTC                             |
+| 💳 Payments      | Razorpay • Cashfree                |
+| 🤖 AI            | Resume Analysis • Skill Detection  |
+| ☁️ Deployment    | Vercel • Netlify • Render          |
+| 🛠️ Tools        | Git • GitHub • VS Code • Figma     |
+
+---
+
+# 📌 Development Philosophy
+
+<div align="center">
+
+> **Build it clean. Secure it properly. Scale it intelligently.**
+
+<br>
+
+**Clean Architecture** • **Reusable Code** • **Secure APIs** • **Scalable Systems** • **Real-World Solutions**
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mohammedsalihk8547@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-salih-k/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/salih85">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐ If you like my work, consider starring my repositories.
+### ⭐ If you like my work, consider starring my repositories!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 
 </div>
+
